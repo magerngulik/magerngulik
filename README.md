@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Flutter and php**
 - 📫 Email me at **Zulkarnaim70@gmail.com**
-- ☕ my hobby is cycling and drinking coffee
+- ☕ my hobby is gardening and drinking coffee
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: sharing is magic 🐰
 - Chat me on [Telegram](https://t.me/magerngulik)

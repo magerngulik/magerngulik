@@ -6,7 +6,7 @@
 - 📫 Email me at **Zulkarnaim70@gmail.com**
 - ☕ my hobby is gardening and drinking coffee
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: sharing is magic 🐰
+- ⚡ Fun fact: error pain us
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magerngulik&show_icons=true&locale=en" alt="magerngulik" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
